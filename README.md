@@ -5,11 +5,6 @@ This repository contains the code and datasets for the study titled **"Comparati
 ## Project Overview
 This research investigates how asymmetric readout errors impact the convergence and performance of Variational Quantum Classifiers (VQC). We provide a comparative analysis as the system scales from 2 to 4 qubits, utilizing Google Colab for the experimental environment.
 
-## Repository Contents
-* `notebooks/`: Contains the Google Colab notebooks (`.ipynb`) used for the experiments.
-* `data/`: Raw output data, CSV files, or results generated during the quantum simulations.
-* `results/`: Plots and figures demonstrating the convergence and error analysis.
-
 ## Getting Started
 
 ### Prerequisites
